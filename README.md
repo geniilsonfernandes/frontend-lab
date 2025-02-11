@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+<img style="align:center;" src="./public/logo.png" alt="Notesnook Logo" width="100" />
+</p>
 
-## Getting Started
+<h1 align="center">Frontend Lab</h1>
 
-First, run the development server:
+Frontend Lab é um repositório dedicado ao estudo e experimentação de tecnologias frontend modernas. Aqui você encontrará exemplos práticos, componentes reutilizáveis e boas práticas para desenvolver aplicações escaláveis e eficientes.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Estrutura modular para estudos de frontend
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Exemplos práticos de Data Fetching
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Componentização eficiente com React
 
-## Learn More
+- Gerenciamento de estado otimizado
 
-To learn more about Next.js, take a look at the following resources:
+- Estilização flexível com Tailwind CSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Formulários dinâmicos com React Hook Form
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Acessibilidade e boas práticas de UI
 
-## Deploy on Vercel
+## 🚀 Tecnologias Utilizadas
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Next.js, React, React Hook Form, ShadCN, Tailwind CSS, R
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
